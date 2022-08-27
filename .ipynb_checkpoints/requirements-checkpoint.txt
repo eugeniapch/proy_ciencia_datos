@@ -1,0 +1,12 @@
+pandas
+matplotlib
+nltk
+wordcloud
+scikit-learn
+nltk
+gensim
+numpy
+scipy
+
+openpyxl
+xlrd
